@@ -1,0 +1,9 @@
+.button {
+    border: none;
+    color: black;
+    padding: 1rem;
+    align-self: stretch;
+    font-weight: 700;
+    font-size: 1.25rem;
+    cursor: pointer;
+}

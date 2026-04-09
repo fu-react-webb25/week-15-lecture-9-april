@@ -1,0 +1,9 @@
+.single-page {
+    background-color: var(--dark-grey);
+
+    .single-page__book-container {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 2rem;
+    }
+}
